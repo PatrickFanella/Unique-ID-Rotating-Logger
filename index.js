@@ -11,7 +11,7 @@ const rfs = require('rotating-file-stream'); // version 2.x
 // create a rotating write stream in the log/ directory
 const accessLogStream = rfs.createStream('access.log', {
   interval: '1m', //! rotate time (change me!)
-  path: path.join(__dirname, 'log'),
+  path: path.join(__dirname, 'logs'),
   compress: 'gzip',
   maxFiles: 5,
   maxSize: '1MB',

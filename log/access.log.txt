@@ -1,5 +1,0 @@
-C:\Users\fanel\Desktop\Middleware_Intro\log\20211230-1235-01-access.log.gz
-C:\Users\fanel\Desktop\Middleware_Intro\log\20211230-1236-01-access.log.gz
-C:\Users\fanel\Desktop\Middleware_Intro\log\20211230-1237-01-access.log.gz
-C:\Users\fanel\Desktop\Middleware_Intro\log\20211230-1238-01-access.log.gz
-C:\Users\fanel\Desktop\Middleware_Intro\log\20211230-1239-01-access.log.gz
